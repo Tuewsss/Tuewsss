@@ -1,6 +1,6 @@
 # Mateus Monteiro Mendes
 
-> *"Consistência é o que transforma a média em excelência."*
+> *"O trabalho duro vence o dom natural."*
 
 ---
 
@@ -8,7 +8,7 @@ Sou desenvolvedor com foco em back-end e web, formado em **Análise e Desenvolvi
 
 ---
 
-## Sobre
+## Sobre mim
 
 - 🎓 Graduado em ADS — [UNIFIP](https://unifip.edu.br/), Patos · 2026
 - 💼 Estágio — Neuroteks · 2025
